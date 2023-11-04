@@ -8,7 +8,6 @@ This repo contains the associated code and results for the NanoGPT2 project.
 
 Here is a sample of the dataset for reference:
 ```
-<|endoftext|>
 VQLVESGGGWVQPGGSLRLSCAASGTIFSVGSMHWYRQVPGKQRELVADITSDGTTNYRD
 SVKGRFTISRDNAKNTVYLHMNSLKPEDTAVYSCAATIAAANYGLGPERYDFWGQGTQVT
 VSS
