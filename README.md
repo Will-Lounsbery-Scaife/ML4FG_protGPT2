@@ -2,10 +2,12 @@
 This repo contains the associated code and results for the NanoGPT2 project.
 
 # Fine-Tuning
-- XXX
+- Google colab was utilized to generate and execute **protGPT_small.ipynb**
+- A supporting Python script, **run_clm.py**, wasa utilized to facilitate the fine-tuning process
+- Training data is available here 
 
 # Perplexity Scoring
-- Google Colab was utilized to generate and execute **Perplexity.ipnyb**
+- Google Colab was utilized to generate and execute **Perplexity.ipynb**
 - The default T4 GPU 15 GB runtime was utilized in Colab
 - The output of the NanoGPT2 and ProtGPT2 sequence generation for each of the 3 inputs are included as text files
 - For the Nanobody 7OM4, the NanoGPT2 output is stored in **ft_seq.txt**. The ProtGPT2 output is stored in **base_seq.txt**.
