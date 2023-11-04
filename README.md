@@ -3,7 +3,7 @@ This repo contains the associated code and results for the NanoGPT2 project.
 
 # Fine-Tuning
 - Google colab was utilized to generate and execute **protGPT_small.ipynb**
-- A supporting Python script, **run_clm.py**, wasa utilized to facilitate the fine-tuning process
+- A supporting Python script, **run_clm.py**, was utilized to facilitate the fine-tuning process
 - Training and validation dataset are available upon request, as they are too large to upload to Github.
 
 Here is a sample of the dataset for reference:
