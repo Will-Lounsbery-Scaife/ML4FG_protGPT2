@@ -2,7 +2,8 @@
 This repo contains the associated code and results for the NanoGPT2 project.
 
 # Preprocessing
-- The data was downsampled by a factor of 10 and preprocessed using <script>
+- The INDI antibody dataset is available here: https://research.naturalantibody.com/nanobodies
+- The original dataset was downsampled by a factor of 10 and preprocessed using <script>
 - Training and validation dataset are available upon request, as they are too large to upload to Github.
 
 Here is a sample of the dataset for reference:
