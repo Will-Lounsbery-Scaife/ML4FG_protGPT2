@@ -1,10 +1,8 @@
 # NanoGPT2: De novo nanobody sequence generation using a fine-tuned protein language model
 This repo contains the associated code and results for the NanoGPT2 project.
 
-# Fine-Tuning
-- Google Colab was utilized to generate and execute **protGPT_small.ipynb**
-- XXXX runtime was utilized in Colab to run the file
-- A supporting Python script, **run_clm.py**, was utilized to facilitate the fine-tuning process
+# Preprocessing
+- The data was downsampled by a factor of 10 and preprocessed using <script>
 - Training and validation dataset are available upon request, as they are too large to upload to Github.
 
 Here is a sample of the dataset for reference:
@@ -25,6 +23,12 @@ VQLVESGGGLVQPGGSLRLSCAASGFTFANDAMTWVCQAPGKALEGFSRIPLIGGGIPYY
 SDSVKGRFTISRDNTQNMLYLQMNNLKPEDTAVYYCAKGFKSTYPRGQGTQVTVS
 <|endoftext|>
 ```
+
+
+# Fine-Tuning
+- Google Colab was utilized to generate and execute **protGPT_small.ipynb**
+- XXXX runtime was utilized in Colab to run the file
+- A supporting Python script, **run_clm.py**, was utilized to facilitate the fine-tuning process
 
 # Perplexity Scoring
 - Google Colab was utilized to generate and execute **Perplexity.ipynb**
