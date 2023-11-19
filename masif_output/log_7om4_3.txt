@@ -1,0 +1,8 @@
+Target name: 7om4-ESM-3_A
+IFACE_CUTOFF: 0.8
+DESC_DIST_CUTOFF: 2.0
+score_cutoff: 0.8
+
+Total number of proteins 13917
+3EQX_A_B 0.8446012139320374 p1
+Took 835.6876332759857s
