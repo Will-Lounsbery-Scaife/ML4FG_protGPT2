@@ -4,7 +4,7 @@ This repo contains the associated code and results for the NanoGPT2 project.
 # Preprocessing
 - The INDI antibody dataset is available here: https://research.naturalantibody.com/nanobodies
 - The original dataset was downsampled by a factor of 10 and preprocessed using ```train_val_split.py```
-- Our fine-tuning training and validation datasets are available here: <LINK TO DATA>
+- Our fine-tuning training and validation datasets are available here: ```Google drive data link```
 
 Here is a sample of the dataset for reference:
 ```
@@ -42,7 +42,7 @@ SDSVKGRFTISRDNTQNMLYLQMNNLKPEDTAVYYCAKGFKSTYPRGQGTQVTVS
 - For the Nanobody 5JDS, the NanoGPT2 output is stored in ```ft_seq_5jds.txt```. The ProtGPT2 output is stored in ```base_seq_5jds.txt```.
 - For Nanobody 5DXW, the NanoGPT2 output is stored in ```ft_seq_5dxw.txt```. The ProtGPT2 output is stored in ```base_seq_dxw.txt```.
 
-# ESMFold 3-D Structures
+# ESMFold: Computing 3-D Structures
 - PDB files for top nanobodies are available in the ```pdbs``` directory
 - PLY files for top nanobodies are available in the ```plyfiles``` directory
 - The script to run ESMFold is ```<SCRIPT NAME>```
