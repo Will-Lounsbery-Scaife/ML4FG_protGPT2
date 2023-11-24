@@ -45,12 +45,14 @@ SDSVKGRFTISRDNTQNMLYLQMNNLKPEDTAVYYCAKGFKSTYPRGQGTQVTVS
 - For Nanobody 5DXW, the NanoGPT2 output is stored in ```ft_seq_5dxw.txt```. The ProtGPT2 output is stored in ```base_seq_dxw.txt```.
 
 # ESMFold: Computing 3-D Structures
+- ESM full documentation is available here: https://github.com/facebookresearch/esm
 - PDB files for top nanobodies are available in the ```pdbs``` directory
 - PLY files for top nanobodies are available in the ```plyfiles``` directory
 - The script to run ESMFold is ```ML4FG_ESMFold.ipynb```
 - Image renderings for top nanobodies are available in the ```esm_output``` directory
 
 # MaSIF: Interaction affinity scoring
+- MaSIF full documentation is available here: https://github.com/LPDI-EPFL/masif
 - The scripts to run MaSIF are available in the ```masif_modified_files``` directory
 - The best protein-protein interaction affinities for top nanobodies are available in the ```masif_output``` directory
 
