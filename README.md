@@ -4,7 +4,8 @@ This repo contains the associated code and results for the NanoGPT2 project.
 # Preprocessing
 - The INDI antibody dataset is available here: https://research.naturalantibody.com/nanobodies
 - The original dataset was downsampled by a factor of 10 and preprocessed using ```train_val_split.py```
-- Our fine-tuning training and validation datasets are available here: ```Google drive data link```
+- Our fine-tuning training dataset is available here: https://drive.google.com/file/d/1Ifspq55LFj356_MTTw4D1wG3OxI0rDvl/view?usp=drive_link
+- Our fine-tuning validation dataset is available here: https://drive.google.com/file/d/1YkiWu3O2SvF7olyeFS3Wx4SjIBmutkZB/view?usp=drive_link
 
 Here is a sample of the dataset for reference:
 ```
@@ -45,7 +46,7 @@ SDSVKGRFTISRDNTQNMLYLQMNNLKPEDTAVYYCAKGFKSTYPRGQGTQVTVS
 # ESMFold: Computing 3-D Structures
 - PDB files for top nanobodies are available in the ```pdbs``` directory
 - PLY files for top nanobodies are available in the ```plyfiles``` directory
-- The script to run ESMFold is ```<SCRIPT NAME>```
+- The script to run ESMFold is ```ML4FG_ESMFold.ipynb```
 - Image renderings for top nanobodies are available in the ```esm_output``` directory
 
 # MaSIF: Interaction affinity scoring
