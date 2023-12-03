@@ -28,7 +28,7 @@ SDSVKGRFTISRDNTQNMLYLQMNNLKPEDTAVYYCAKGFKSTYPRGQGTQVTVS
 
 
 # ProtGPT2 Fine-Tuning
-- Google Colab was utilized to generate and execute ```protGPT_small.ipynb```. The colab can be accessed at https://colab.research.google.com/drive/13MT6ua8GdwpsEZRPm9loP3ZOXUdvK2Z3?usp=sharing
+- Google Colab was utilized to generate and execute ```protGPT_small.ipynb```
 - ProtGPT2 was accessed through HuggingFace: https://huggingface.co/nferruz/ProtGPT2
 - A GPU runtime with a single A100 GPU was utilized in Colab to run the file
 - A supporting Python script, ```run_clm.py```, was utilized to facilitate the fine-tuning process
